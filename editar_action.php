@@ -1,6 +1,5 @@
 <?php
 require 'includes/header.php';
-
 require 'config.php';
 
 $usuario = [];
